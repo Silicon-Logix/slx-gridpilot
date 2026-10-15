@@ -1,0 +1,15 @@
+SLX GridPilot / Silicon LogiX
+Copyright (c) 2026 Marco Pezzullo (Silicon LogiX).
+Author: Marco Pezzullo.
+
+Original HydroPlant model, materials, logos, hierarchy and animation pivots are
+from the supplied SLX GridPilot HydroPlant 0.1.0 asset package. Units are metres;
+the Blender-to-glTF axis conversion is already applied. The asset package is
+preserved; runtime pose ownership is applied after import.
+
+The Windows ZIP includes third_party/slint-bevy-adapter.rs, adapted from Slint 1.12.1
+Bevy example, Copyright SixtyFPS GmbH, MIT license. Changes: external asset
+plugin configuration and stable manual render target identity.
+
+Third-party component license rights are independent of the application
+Evaluation License. See THIRD_PARTY_NOTICES.md and licenses/ in the Windows ZIP.

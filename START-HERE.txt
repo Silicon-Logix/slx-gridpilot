@@ -1,0 +1,7 @@
+Copyright (c) 2026 Marco Pezzullo / Silicon LogiX. See LICENSE.
+SLX GridPilot 0.4.2 / DOCUMENTATION AND DOWNLOADS
+
+This repository contains user documentation, selected screenshots and publication checks.
+Download the portable Windows application from GitHub Releases.
+Extract the complete ZIP and double-click SLX GridPilot.exe.
+The Windows ZIP includes dependency licenses, notices and corresponding sources.

@@ -1,0 +1,27 @@
+# Copyright (c) 2026 Marco Pezzullo / Silicon LogiX. See LICENSE.
+* text=auto eol=lf
+LICENSE -text
+NOTICE.txt -text
+licenses/** -text
+assets/fonts/OFL.txt -text
+*.rs text eol=lf
+*.slint text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.ps1 text eol=lf
+*.glb binary
+*.blend binary
+*.png binary
+*.jpg binary
+*.ico binary
+*.ttf binary
+*.exe binary
+*.dll binary
+*.zip binary
+*.cmd text eol=crlf
+*.hpp text eol=lf
+*.yml text eol=lf
+
+# Preserve dependency provenance and the byte-exact publication inventory.
+third_party/** -text
+publication-manifest.json -text

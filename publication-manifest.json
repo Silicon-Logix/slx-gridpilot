@@ -1,0 +1,158 @@
+{
+  "copyright": "Copyright (c) 2026 Marco Pezzullo / Silicon LogiX. See LICENSE.",
+  "profile": "github",
+  "version": "0.4.2",
+  "proprietary_implementation_included": false,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 554,
+      "sha256": "00e55fb96fd9d9a1b6b5b944c7bb0e397cddf6e4a24bedc3b135bd62270aa497"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "bytes": 555,
+      "sha256": "6c787cd2578b0a75accab8ff5abd4537a07827b71e9ea1ad31d89c0cf281b4ef"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 1199,
+      "sha256": "196ddb56afd5a0736d96eccb4db0e2d52150fd10c5ecde1063bfb9ca40bd7016"
+    },
+    {
+      "path": "assets/screenshots/about.png",
+      "bytes": 394087,
+      "sha256": "9dc1b79bfd387f16571b18b1f04f67ed30f97de50c2e8e0ef381fb3cf4c3c597"
+    },
+    {
+      "path": "assets/screenshots/history-trends.png",
+      "bytes": 204794,
+      "sha256": "0786f7afd4ceab70ab31151ab73f4e677bc22e188d63a5330f243547cacdb873"
+    },
+    {
+      "path": "assets/screenshots/opcua-studio.png",
+      "bytes": 265488,
+      "sha256": "dae84f2f2524922964d3278d86ea7a01ef049604ba0d3104ec695c5a69079563"
+    },
+    {
+      "path": "assets/screenshots/opcua-tour-quality.png",
+      "bytes": 266815,
+      "sha256": "50f6baf06c4df33fc772e8bd4d7bab02ccfe98edf21c70770f8c2d18f529c9f0"
+    },
+    {
+      "path": "assets/screenshots/overview.png",
+      "bytes": 428858,
+      "sha256": "616244a99d837168e8181404fa7fbbbac5c751d81c5cb6c59e26fa19a2e389c2"
+    },
+    {
+      "path": "assets/screenshots/test-plan.png",
+      "bytes": 246552,
+      "sha256": "7834134f9abc2eef9dbb98c990aaf3738ec011a5eb3c71b088e10bc8e671dae7"
+    },
+    {
+      "path": "assets/screenshots/ua-node-detail.png",
+      "bytes": 291707,
+      "sha256": "50e89f576115de6c48e523f556de86d421b41840c5e3a363158a1e41751e4c7a"
+    },
+    {
+      "path": "assets/screenshots/ua-watchlist.png",
+      "bytes": 276020,
+      "sha256": "dffd0a5c9dc55b1d9459e4cd88442bc7c90525ffc7ef4b82494a92f8c3170cb1"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 2524,
+      "sha256": "acbd8c5dce0a2e2bdbff758a08a220d2072e8a3570fca25c81215408bf368fca"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1236,
+      "sha256": "40bdd4d205710a8da70d5f48a6c030693cbe362f1c513369b78125d38313e5c5"
+    },
+    {
+      "path": "docs/architecture.md",
+      "bytes": 3260,
+      "sha256": "d6c54f8715b974c2d4eb118a66bc49c22f074a1044009ebad30ae2ccb602b6d4"
+    },
+    {
+      "path": "docs/custom-development.md",
+      "bytes": 1847,
+      "sha256": "ffc638fd0891c63b1768c7e72b1d639bf1a59ae25da527311bf9be3ef984ddb8"
+    },
+    {
+      "path": "docs/dependencies.md",
+      "bytes": 2263,
+      "sha256": "07d4f68fca38f99e9426bf18582136c3b4bb49159e52505b3d69f93300c4a84f"
+    },
+    {
+      "path": "docs/opcua-learning.md",
+      "bytes": 3801,
+      "sha256": "05163d9866a206fc080ed289a182cd990ffdf16dc6b68d4d6e0f55beb6cf71fe"
+    },
+    {
+      "path": "docs/opcua.md",
+      "bytes": 8480,
+      "sha256": "d80636a25db4b25043d1db2f88070bd98146a2bdbb0d918a86a8906db520ace4"
+    },
+    {
+      "path": "docs/operator-interface.md",
+      "bytes": 10069,
+      "sha256": "5750ffbe37aff51a8b2bc3f2745543464e491162abe75d221b18523b78c1c61c"
+    },
+    {
+      "path": "docs/physical-model.md",
+      "bytes": 3115,
+      "sha256": "713db60bc5b9fec7a2702b0d577c42f50603110ef9eb6e2953264c74018b4653"
+    },
+    {
+      "path": "docs/quick-start.md",
+      "bytes": 4693,
+      "sha256": "a33d4a5542cd8b465c72e78435c4195f801fccb93d5eb79d325d2f94b7da36b6"
+    },
+    {
+      "path": "docs/validation.md",
+      "bytes": 1894,
+      "sha256": "cf8090fac8468ce9c13b3ad65478b38869033818446ca4da0d5d14cdc6e7e37c"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3533,
+      "sha256": "54748f0bbf8c5b76d5f7398d8e79b84d7f8687e2e911dfeb867ed8fea75f33e4"
+    },
+    {
+      "path": "NOTICE.txt",
+      "bytes": 784,
+      "sha256": "01d0ab05a25defb35dd0011a1344b860d221e79eb334937082b84e003eddc166"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6559,
+      "sha256": "55796a2c7f6b3150411c25cfb469878028810847b066081a898f129908951364"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 764,
+      "sha256": "a2886ffc95a7176de446a9ba3e2a3ddcf27b079f01265e63c82245abaf04f6f1"
+    },
+    {
+      "path": "START-HERE.txt",
+      "bytes": 411,
+      "sha256": "e0b7dc94f117277e56729a97f2bd9a828ab91b16af659c79fbcf72061c1b2dea"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 2291,
+      "sha256": "0e52654a528e51575bde27ca0c7c63f6a4319f186b23d3f9cd1a0144ad120ee6"
+    },
+    {
+      "path": "THIRD_PARTY_SOURCE.md",
+      "bytes": 2296,
+      "sha256": "d97dcf7fbed5121b001257e185d992dc0e5b55c6d5380f3732e581ace5838cde"
+    },
+    {
+      "path": "tools/audit-publication.py",
+      "bytes": 12799,
+      "sha256": "8963cb6736637e7c411fae0f043550f850653a51f14539894142f48127a54c5a"
+    }
+  ]
+}
